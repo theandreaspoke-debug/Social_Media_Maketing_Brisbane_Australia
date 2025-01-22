@@ -2,7 +2,7 @@
 
 ## About This Project
 
-My name is John Doe, and I am a small business owner operating a fruit juice company in Brisbane, Queensland, Australia.
+My name is John, and I am a small business owner operating a fruit juice company in Brisbane, Queensland, Australia.
 
 As digital marketing continues to shape consumer behaviour, I became interested in understanding how social media marketing can influence customer purchasing decisions and help small businesses grow online.
 
