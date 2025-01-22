@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Social Media Marketing Consumer Analysis 2024</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: #f4f7fb;
+      color: #222;
+      line-height: 1.7;
+    }
+
+    header {
+      background: linear-gradient(135deg, #0f172a, #1e3a8a);
+      color: white;
+      padding: 80px 10%;
+    }
+
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 20px;
+    }
+
+    header p {
+      max-width: 800px;
+      font-size: 1.1rem;
+      opacity: 0.95;
+    }
+
+    nav {
+      background: white;
+      padding: 18px 10%;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+
+    nav ul {
+      display: flex;
+      gap: 25px;
+      list-style: none;
+      flex-wrap: wrap;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #1e3a8a;
+      font-weight: 500;
+    }
+
+    section {
+      padding: 70px 10%;
+    }
+
+    .section-title {
+      font-size: 2rem;
+      margin-bottom: 25px;
+      color: #0f172a;
+    }
+
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 25px;
+      margin-top: 30px;
+    }
+
+    .card {
+      background: white;
+      padding: 25px;
+      border-radius: 18px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+      transition: 0.3s;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+    }
+
+    .card h3 {
+      color: #1e3a8a;
+      margin-bottom: 12px;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 25px;
+      margin-top: 30px;
+    }
+
+    .stat-box {
+      background: linear-gradient(135deg, #2563eb, #1d4ed8);
+      color: white;
+      padding: 30px;
+      border-radius: 18px;
+      text-align: center;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+
+    .stat-box h2 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+
+    .about-box {
+      background: white;
+      padding: 35px;
+      border-radius: 20px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    }
+
+    .table-container {
+      overflow-x: auto;
+      margin-top: 30px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: white;
+      border-radius: 15px;
+      overflow: hidden;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    }
+
+    table th,
+    table td {
+      padding: 18px;
+      text-align: left;
+      border-bottom: 1px solid #eee;
+    }
+
+    table th {
+      background: #1e3a8a;
+      color: white;
+    }
+
+    footer {
+      background: #0f172a;
+      color: white;
+      text-align: center;
+      padding: 40px 10%;
+      margin-top: 50px;
+    }
+
+    .highlight {
+      color: #2563eb;
+      font-weight: 600;
+    }
+
+    @media(max-width:768px) {
+      header h1 {
+        font-size: 2.2rem;
+      }
+
+      nav ul {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Social Media Marketing & Consumer Behaviour Analysis 2024</h1>
+    <p>
+      An independent data analysis project exploring how social media marketing influences purchasing decisions among consumers interacting with small retail businesses in Brisbane, Queensland, Australia.
+    </p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#objectives">Objectives</a></li>
+      <li><a href="#statistics">Statistics</a></li>
+      <li><a href="#variables">Variables</a></li>
+      <li><a href="#findings">Key Findings</a></li>
+      <li><a href="#download">Download Data</a></li>
+    </ul>
+  </nav>
+
+  <section id="about">
+    <h2 class="section-title">About The Project</h2>
+
+    <div class="about-box">
+      <p>
+        My name is <span class="highlight">John Doe</span>, a small business owner operating a fruit juice company in Brisbane, Australia.
+      </p>
+
+      <br>
+
+      <p>
+        As consumer behaviour increasingly shifts toward digital platforms, I became interested in understanding how social media marketing affects online engagement, customer trust, and purchasing decisions.
+      </p>
+
+      <br>
+
+      <p>
+        This independent project was developed out of personal interest in digital marketing, retail business growth, and data analytics. The analysis focuses on 2024 consumer behaviour trends among social media users interacting with small retail businesses.
+      </p>
+
+      <br>
+
+      <p>
+        The dataset used in this project was analysed using <strong>RStudio</strong> and represents consumer survey responses collected in Brisbane, Queensland during 2024.
+      </p>
+    </div>
+  </section>
+
+  <section id="objectives">
+    <h2 class="section-title">Project Objectives</h2>
+
+    <div class="card-grid">
+      <div class="card">
+        <h3>Consumer Behaviour</h3>
+        <p>
+          Explore how social media engagement influences purchasing decisions.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Platform Analysis</h3>
+        <p>
+          Identify the most influential social media platforms among consumers.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Trust & Reviews</h3>
+        <p>
+          Examine the role of trust, influencers, and online reviews in purchase intention.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Business Insights</h3>
+        <p>
+          Generate insights that may help small businesses improve online marketing performance.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="statistics">
+    <h2 class="section-title">Dataset Statistics</h2>
+
+    <div class="stats">
+      <div class="stat-box">
+        <h2>150</h2>
+        <p>Survey Respondents</p>
+      </div>
+
+      <div class="stat-box">
+        <h2>2024</h2>
+        <p>Dataset Year</p>
+      </div>
+
+      <div class="stat-box">
+        <h2>19</h2>
+        <p>Research Variables</p>
+      </div>
+
+      <div class="stat-box">
+        <h2>5</h2>
+        <p>Major Social Platforms</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="variables">
+    <h2 class="section-title">Variables Included In The Dataset</h2>
+
+    <div class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Category</th>
+            <th>Variables</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Demographics</td>
+            <td>Age Group, Gender, Employment Status, Monthly Income</td>
+          </tr>
+
+          <tr>
+            <td>Social Media Usage</td>
+            <td>Primary Platform, Daily Usage Hours, Ad Click Frequency</td>
+          </tr>
+
+          <tr>
+            <td>Consumer Trust</td>
+            <td>Trust in Influencers, Trust in Online Reviews</td>
+          </tr>
+
+          <tr>
+            <td>Purchasing Behaviour</td>
+            <td>Purchase Intention, Purchases Per Month, Customer Loyalty Score</td>
+          </tr>
+
+          <tr>
+            <td>Marketing Preferences</td>
+            <td>Preferred Content Type, Influencer Following Level</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="findings">
+    <h2 class="section-title">Key Findings</h2>
+
+    <div class="card-grid">
+      <div class="card">
+        <h3>Instagram Dominance</h3>
+        <p>
+          Instagram appeared as the most influential platform among younger consumers due to its visual and interactive content structure.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Trust Drives Purchases</h3>
+        <p>
+          Consumers with higher trust in online reviews and influencers demonstrated stronger purchase intention.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Short Video Content</h3>
+        <p>
+          Short-form video content generated higher engagement compared to static image-based content.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Mobile Shopping Growth</h3>
+        <p>
+          A large percentage of respondents preferred shopping through mobile devices connected to social media platforms.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="download">
+    <h2 class="section-title">Download Dataset</h2>
+
+    <div class="about-box">
+      <p>
+        The raw dataset used for this analysis can be downloaded below.
+      </p>
+
+      <br>
+
+      <a href="data/my_raw_data.csv" download style="display:inline-block; padding:14px 28px; background:#2563eb; color:white; text-decoration:none; border-radius:10px; font-weight:600;">
+        Download Raw Dataset (CSV)
+      </a>
+    </div>
+  </section>
+
+  <footer>
+    <p>
+      Independent Data Analysis Project — 2024 Consumer Behaviour Dataset
+    </p>
+
+    <br>
+
+    <p>
+      Developed by John Doe | Brisbane, Queensland, Australia
+    </p>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,151 @@
+Respondent_ID,Age_Group,Gender,Employment_Status,Monthly_Income,Primary_Platform,Daily_Social_Media_Hours,Trust_in_Influencers,Content_Quality_Rating,Purchase_Intention,Brand_Engagement_Level,Trust_in_Online_Reviews,Purchases_Per_Month,Preferred_Content_Type,Preferred_Retail_Type,Ad_Click_Frequency,Mobile_Shopping_Usage,Influencer_Following_Level,Customer_Loyalty_Score
+R001,35-44,Female,Employed,4000-5999,Facebook,3.6,1,4,4,3,2,3,Influencer Posts,Electronics,Rarely,Yes,Low,9
+R002,25-34,Female,Student,Below 2000,Facebook,3.5,2,4,3,4,4,9,Short Videos,Beauty,Sometimes,Yes,High,9
+R003,35-44,Male,Employed,4000-5999,Instagram,3.1,4,2,5,5,4,6,Influencer Posts,Electronics,Very Often,Yes,Moderate,1
+R004,35-44,Female,Student,2000-3999,TikTok,7.3,2,3,4,3,3,4,Short Videos,Fashion,Rarely,Yes,Moderate,9
+R005,18-24,Male,Unemployed,Below 2000,Instagram,2.5,5,3,5,1,5,5,Customer Reviews,Beauty,Sometimes,Yes,High,8
+R006,35-44,Female,Employed,4000-5999,Facebook,4.1,4,3,2,2,3,6,Short Videos,Food & Beverage,Sometimes,Yes,High,9
+R007,18-24,Female,Self-Employed,4000-5999,YouTube,3.4,5,5,3,3,4,7,Short Videos,Beauty,Very Often,No,Moderate,10
+R008,25-34,Female,Student,Below 2000,Instagram,4.2,5,3,4,4,5,5,Images,Beauty,Rarely,Yes,Moderate,10
+R009,45-54,Male,Employed,Below 2000,YouTube,3.8,5,5,4,2,4,8,Short Videos,Home Decor,Sometimes,Yes,Moderate,7
+R010,25-34,Female,Self-Employed,Below 2000,Facebook,6.1,5,2,4,5,5,3,Influencer Posts,Fashion,Very Often,Yes,Moderate,10
+R011,45-54,Female,Employed,6000+,Facebook,4.4,4,4,5,4,5,7,Short Videos,Beauty,Often,Yes,Moderate,5
+R012,55+,Male,Employed,2000-3999,Facebook,1.4,5,2,5,4,4,3,Images,Electronics,Never,Yes,Low,4
+R013,35-44,Male,Student,Below 2000,TikTok,5,4,5,3,3,4,6,Influencer Posts,Electronics,Often,Yes,Moderate,2
+R014,18-24,Female,Employed,4000-5999,TikTok,3.6,4,5,1,4,4,6,Customer Reviews,Fashion,Sometimes,No,Moderate,4
+R015,18-24,Male,Employed,4000-5999,Facebook,5.6,3,4,5,3,5,4,Influencer Posts,Fashion,Often,Yes,Low,4
+R016,35-44,Male,Employed,2000-3999,X/Twitter,3.8,5,4,2,2,4,4,Short Videos,Electronics,Often,Yes,Low,9
+R017,25-34,Female,Employed,4000-5999,TikTok,4.9,5,5,1,4,3,7,Short Videos,Food & Beverage,Very Often,Yes,Moderate,9
+R018,45-54,Male,Unemployed,Below 2000,TikTok,5.1,4,5,4,5,4,9,Influencer Posts,Fashion,Very Often,Yes,Moderate,6
+R019,25-34,Male,Student,4000-5999,YouTube,2.1,3,4,3,1,4,10,Short Videos,Food & Beverage,Sometimes,Yes,Low,7
+R020,25-34,Female,Employed,2000-3999,Facebook,5.9,1,2,4,5,5,6,Images,Fashion,Never,Yes,High,5
+R021,25-34,Male,Unemployed,4000-5999,TikTok,4.6,1,4,5,4,5,4,Images,Electronics,Very Often,Yes,Low,9
+R022,25-34,Male,Student,2000-3999,TikTok,3.2,2,4,4,4,4,3,Images,Fashion,Sometimes,Yes,High,7
+R023,35-44,Female,Employed,4000-5999,Instagram,3.6,3,2,3,3,4,4,Influencer Posts,Beauty,Often,Yes,Low,8
+R024,35-44,Male,Self-Employed,2000-3999,Instagram,1.8,3,3,5,5,3,3,Customer Reviews,Home Decor,Rarely,Yes,High,2
+R025,35-44,Female,Employed,2000-3999,Instagram,3.5,4,4,5,4,4,5,Short Videos,Fashion,Sometimes,Yes,Moderate,2
+R026,25-34,Male,Employed,2000-3999,YouTube,6.8,2,5,3,3,4,4,Influencer Posts,Food & Beverage,Often,No,Moderate,8
+R027,18-24,Female,Unemployed,4000-5999,Instagram,5,4,2,4,3,2,2,Short Videos,Fashion,Rarely,Yes,Moderate,6
+R028,35-44,Female,Unemployed,Below 2000,Facebook,4.1,4,5,4,2,4,6,Influencer Posts,Home Decor,Very Often,Yes,Low,5
+R029,25-34,Male,Employed,2000-3999,X/Twitter,2.6,3,3,4,4,4,4,Influencer Posts,Fashion,Often,No,High,6
+R030,25-34,Male,Employed,Below 2000,TikTok,5.2,5,3,2,5,3,3,Images,Electronics,Sometimes,Yes,Moderate,9
+R031,18-24,Female,Employed,4000-5999,Instagram,0.7,4,4,4,4,4,6,Short Videos,Electronics,Sometimes,Yes,High,9
+R032,25-34,Male,Unemployed,Below 2000,YouTube,4.2,2,4,4,5,5,4,Short Videos,Fashion,Never,Yes,Moderate,6
+R033,25-34,Female,Student,6000+,TikTok,3.6,4,3,5,3,1,2,Customer Reviews,Beauty,Sometimes,Yes,Moderate,6
+R034,55+,Male,Student,4000-5999,Instagram,4.3,3,4,2,5,5,2,Images,Home Decor,Often,Yes,Moderate,5
+R035,35-44,Female,Employed,6000+,TikTok,4.9,5,1,3,5,1,7,Influencer Posts,Beauty,Often,Yes,High,7
+R036,35-44,Other,Student,2000-3999,YouTube,5.9,5,5,4,5,4,6,Influencer Posts,Beauty,Sometimes,Yes,Low,9
+R037,25-34,Male,Self-Employed,6000+,YouTube,3.9,4,5,3,4,4,7,Short Videos,Beauty,Never,Yes,Moderate,8
+R038,55+,Male,Self-Employed,4000-5999,TikTok,5,1,4,4,4,4,5,Images,Food & Beverage,Rarely,Yes,High,8
+R039,25-34,Male,Unemployed,2000-3999,Instagram,4.9,4,5,3,3,3,3,Images,Home Decor,Sometimes,Yes,High,8
+R040,18-24,Female,Self-Employed,4000-5999,Instagram,4.9,3,5,5,4,4,9,Short Videos,Fashion,Very Often,Yes,High,7
+R041,45-54,Female,Employed,6000+,Instagram,3.9,1,3,4,4,2,7,Customer Reviews,Fashion,Sometimes,No,Low,7
+R042,45-54,Female,Student,6000+,Instagram,2.2,5,4,4,5,4,9,Short Videos,Fashion,Often,Yes,Moderate,10
+R043,18-24,Female,Self-Employed,2000-3999,TikTok,2.6,5,4,4,5,2,2,Short Videos,Fashion,Very Often,Yes,High,8
+R044,18-24,Female,Self-Employed,Below 2000,TikTok,1.5,5,5,5,5,4,4,Influencer Posts,Beauty,Often,Yes,Low,7
+R045,45-54,Female,Employed,Below 2000,TikTok,4.7,4,4,1,4,3,8,Short Videos,Food & Beverage,Often,Yes,Moderate,3
+R046,18-24,Female,Employed,6000+,Instagram,1.2,4,5,3,5,5,6,Influencer Posts,Food & Beverage,Often,Yes,Moderate,4
+R047,18-24,Female,Student,2000-3999,Instagram,6.2,3,4,1,3,1,7,Short Videos,Electronics,Sometimes,Yes,High,8
+R048,25-34,Female,Employed,6000+,Facebook,3.6,4,4,4,3,1,4,Short Videos,Fashion,Sometimes,Yes,Moderate,6
+R049,35-44,Male,Student,4000-5999,X/Twitter,3.2,3,5,4,3,4,6,Images,Home Decor,Often,Yes,Moderate,8
+R050,35-44,Male,Student,Below 2000,TikTok,5.1,3,4,3,5,2,5,Images,Home Decor,Often,Yes,High,10
+R051,25-34,Other,Self-Employed,6000+,TikTok,3.4,5,3,4,5,5,4,Influencer Posts,Food & Beverage,Sometimes,No,Low,9
+R052,35-44,Female,Student,4000-5999,Instagram,6,2,5,4,5,1,0,Customer Reviews,Electronics,Sometimes,Yes,Moderate,9
+R053,18-24,Male,Self-Employed,4000-5999,Instagram,1.7,5,4,2,4,5,5,Short Videos,Beauty,Rarely,Yes,Low,7
+R054,18-24,Female,Student,2000-3999,TikTok,5,3,4,5,5,4,5,Influencer Posts,Food & Beverage,Often,Yes,High,9
+R055,35-44,Male,Student,Below 2000,Facebook,5.9,5,4,5,4,2,8,Short Videos,Beauty,Sometimes,Yes,Moderate,8
+R056,35-44,Female,Employed,2000-3999,YouTube,6.9,4,3,3,3,4,0,Images,Home Decor,Often,Yes,Moderate,7
+R057,25-34,Male,Student,4000-5999,Instagram,6,3,5,4,5,4,8,Short Videos,Food & Beverage,Very Often,Yes,Low,7
+R058,25-34,Female,Self-Employed,4000-5999,Facebook,5.3,5,3,5,5,5,5,Short Videos,Beauty,Sometimes,No,Low,5
+R059,18-24,Female,Employed,Below 2000,Instagram,2.4,3,5,4,5,4,1,Influencer Posts,Fashion,Often,Yes,High,7
+R060,25-34,Male,Student,6000+,Facebook,5.3,4,4,3,3,4,4,Images,Fashion,Often,Yes,Moderate,4
+R061,25-34,Male,Student,2000-3999,TikTok,5.3,3,4,4,3,3,6,Short Videos,Home Decor,Sometimes,Yes,Low,8
+R062,18-24,Male,Employed,2000-3999,TikTok,1.4,4,5,5,5,4,5,Influencer Posts,Food & Beverage,Often,Yes,Low,9
+R063,18-24,Female,Student,4000-5999,Instagram,2.5,4,4,5,2,2,9,Short Videos,Electronics,Often,Yes,Low,10
+R064,18-24,Female,Student,Below 2000,TikTok,2.9,4,4,5,1,4,4,Customer Reviews,Food & Beverage,Very Often,Yes,High,5
+R065,25-34,Male,Student,4000-5999,YouTube,3.8,1,4,4,3,4,5,Short Videos,Food & Beverage,Often,Yes,Low,9
+R066,35-44,Female,Self-Employed,2000-3999,Instagram,2.9,4,3,4,2,5,9,Short Videos,Fashion,Very Often,Yes,Moderate,4
+R067,45-54,Female,Employed,Below 2000,Instagram,6.1,3,4,3,4,4,8,Images,Electronics,Often,Yes,Low,9
+R068,35-44,Male,Student,4000-5999,TikTok,3.5,3,4,5,1,4,3,Influencer Posts,Fashion,Often,Yes,Moderate,8
+R069,25-34,Female,Employed,2000-3999,YouTube,3.1,5,4,3,5,4,0,Short Videos,Beauty,Sometimes,Yes,High,8
+R070,25-34,Female,Student,6000+,Instagram,4.6,3,2,4,5,4,3,Images,Fashion,Sometimes,Yes,Low,9
+R071,35-44,Female,Student,4000-5999,Instagram,3.2,2,2,4,4,4,7,Images,Home Decor,Often,Yes,High,9
+R072,25-34,Male,Self-Employed,Below 2000,Facebook,2,3,3,5,5,3,1,Short Videos,Beauty,Never,Yes,Low,7
+R073,18-24,Male,Self-Employed,4000-5999,YouTube,3,1,4,4,4,4,1,Images,Fashion,Rarely,Yes,Moderate,8
+R074,18-24,Female,Employed,6000+,TikTok,4.1,4,3,5,5,4,6,Images,Fashion,Sometimes,Yes,Moderate,5
+R075,25-34,Female,Employed,Below 2000,Instagram,3.2,4,3,5,3,4,7,Short Videos,Beauty,Often,Yes,Low,9
+R076,35-44,Male,Student,Below 2000,Instagram,2.1,2,4,4,2,4,7,Live Streams,Beauty,Often,Yes,Low,5
+R077,25-34,Female,Employed,2000-3999,TikTok,5.1,3,5,5,5,5,6,Influencer Posts,Food & Beverage,Often,Yes,High,7
+R078,25-34,Male,Employed,4000-5999,TikTok,2.5,3,3,4,1,5,7,Images,Home Decor,Very Often,Yes,Low,3
+R079,35-44,Female,Student,2000-3999,Facebook,0.5,4,2,2,3,3,6,Short Videos,Electronics,Sometimes,Yes,Moderate,7
+R080,25-34,Female,Employed,2000-3999,Facebook,4.9,4,5,4,5,4,2,Influencer Posts,Fashion,Sometimes,Yes,Moderate,9
+R081,25-34,Female,Employed,Below 2000,Instagram,5.2,5,4,4,5,4,6,Short Videos,Fashion,Often,No,High,6
+R082,25-34,Female,Employed,6000+,TikTok,4.5,1,4,5,2,4,6,Influencer Posts,Fashion,Sometimes,Yes,High,7
+R083,18-24,Other,Employed,2000-3999,Instagram,4.9,3,4,5,4,2,9,Customer Reviews,Food & Beverage,Sometimes,Yes,Moderate,5
+R084,25-34,Female,Student,Below 2000,TikTok,2,4,4,4,3,2,7,Short Videos,Beauty,Very Often,Yes,Moderate,10
+R085,35-44,Male,Student,Below 2000,TikTok,5.6,5,3,1,2,5,6,Short Videos,Fashion,Often,Yes,Low,4
+R086,18-24,Male,Employed,2000-3999,TikTok,4.8,2,3,4,5,2,6,Influencer Posts,Beauty,Often,Yes,Moderate,8
+R087,55+,Female,Self-Employed,Below 2000,TikTok,4.8,3,3,3,5,4,4,Short Videos,Beauty,Rarely,Yes,Moderate,7
+R088,25-34,Female,Student,2000-3999,Instagram,4.6,4,2,3,4,4,8,Short Videos,Food & Beverage,Sometimes,Yes,Moderate,5
+R089,25-34,Male,Self-Employed,Below 2000,Facebook,5.6,4,5,5,4,5,3,Influencer Posts,Fashion,Very Often,Yes,Moderate,6
+R090,45-54,Male,Employed,4000-5999,Instagram,1.4,5,2,5,2,4,5,Images,Fashion,Sometimes,Yes,High,10
+R091,18-24,Female,Student,Below 2000,YouTube,3.7,4,4,3,1,2,9,Influencer Posts,Fashion,Very Often,Yes,High,6
+R092,45-54,Female,Employed,4000-5999,Instagram,4,5,3,4,4,4,6,Influencer Posts,Fashion,Often,Yes,High,8
+R093,18-24,Female,Self-Employed,4000-5999,Instagram,5.7,4,4,4,5,3,7,Short Videos,Fashion,Rarely,Yes,Low,8
+R094,25-34,Female,Employed,Below 2000,TikTok,6.6,1,5,5,3,5,5,Short Videos,Food & Beverage,Sometimes,Yes,Moderate,7
+R095,35-44,Female,Student,2000-3999,Facebook,2.9,5,1,4,2,5,3,Short Videos,Fashion,Sometimes,Yes,Moderate,6
+R096,25-34,Female,Self-Employed,Below 2000,Instagram,5,5,2,5,3,4,2,Customer Reviews,Beauty,Often,Yes,Low,9
+R097,35-44,Female,Unemployed,2000-3999,Instagram,3.5,4,4,5,4,4,5,Influencer Posts,Electronics,Very Often,Yes,Moderate,9
+R098,18-24,Male,Self-Employed,2000-3999,YouTube,3.3,5,5,4,4,3,7,Influencer Posts,Food & Beverage,Sometimes,Yes,Moderate,5
+R099,55+,Female,Employed,Below 2000,YouTube,3.7,5,4,4,2,2,2,Influencer Posts,Fashion,Very Often,Yes,Moderate,4
+R100,18-24,Male,Student,Below 2000,Instagram,3.5,2,4,5,4,4,6,Images,Fashion,Often,Yes,High,9
+R101,25-34,Male,Student,4000-5999,Instagram,3.7,1,3,3,3,1,10,Influencer Posts,Electronics,Rarely,Yes,Moderate,7
+R102,35-44,Female,Self-Employed,4000-5999,TikTok,3.7,4,4,3,1,1,8,Short Videos,Beauty,Sometimes,Yes,Low,7
+R103,25-34,Female,Student,2000-3999,Facebook,2.7,4,4,3,3,4,1,Short Videos,Electronics,Often,No,Low,5
+R104,18-24,Male,Unemployed,6000+,Instagram,3,1,2,4,5,1,5,Influencer Posts,Beauty,Sometimes,Yes,Moderate,8
+R105,25-34,Female,Employed,2000-3999,Facebook,4.8,3,4,2,2,5,5,Live Streams,Fashion,Very Often,Yes,Moderate,9
+R106,35-44,Female,Employed,4000-5999,Instagram,4.3,5,5,2,2,4,5,Short Videos,Home Decor,Often,No,High,4
+R107,25-34,Female,Student,2000-3999,Instagram,2.9,2,4,3,4,5,2,Live Streams,Fashion,Rarely,Yes,High,8
+R108,25-34,Female,Student,Below 2000,Instagram,2.8,3,5,4,4,3,5,Short Videos,Beauty,Often,No,Moderate,10
+R109,25-34,Male,Self-Employed,4000-5999,Instagram,4.7,4,3,5,4,4,6,Influencer Posts,Fashion,Sometimes,Yes,Low,5
+R110,35-44,Female,Student,Below 2000,Instagram,2.5,3,4,4,2,5,4,Short Videos,Home Decor,Sometimes,No,High,9
+R111,25-34,Female,Employed,Below 2000,Instagram,4.3,4,3,4,2,3,5,Short Videos,Food & Beverage,Rarely,Yes,Moderate,3
+R112,18-24,Female,Employed,4000-5999,YouTube,3.5,3,3,1,3,5,7,Images,Home Decor,Sometimes,Yes,Moderate,6
+R113,35-44,Male,Employed,4000-5999,Facebook,4.2,5,4,2,4,4,3,Short Videos,Home Decor,Never,No,Moderate,8
+R114,25-34,Male,Employed,Below 2000,TikTok,3.1,3,3,3,3,3,3,Influencer Posts,Beauty,Often,Yes,Low,10
+R115,18-24,Female,Student,6000+,Facebook,5.3,4,4,4,4,4,4,Images,Beauty,Often,Yes,Moderate,8
+R116,45-54,Male,Self-Employed,2000-3999,Instagram,3.8,1,5,3,5,4,4,Short Videos,Fashion,Very Often,Yes,High,9
+R117,35-44,Male,Self-Employed,4000-5999,YouTube,3.6,4,5,5,3,5,7,Short Videos,Beauty,Sometimes,Yes,High,9
+R118,25-34,Female,Employed,2000-3999,Instagram,4.4,5,2,4,4,4,7,Influencer Posts,Electronics,Sometimes,Yes,High,1
+R119,18-24,Male,Student,Below 2000,Instagram,3.5,5,5,4,2,3,8,Short Videos,Fashion,Rarely,Yes,Moderate,9
+R120,25-34,Other,Employed,Below 2000,Facebook,2.5,3,5,4,5,5,4,Influencer Posts,Home Decor,Often,Yes,Moderate,6
+R121,45-54,Female,Employed,2000-3999,TikTok,4,3,3,4,4,3,8,Short Videos,Beauty,Very Often,Yes,Moderate,1
+R122,25-34,Female,Unemployed,4000-5999,Instagram,2.9,5,4,3,4,5,5,Influencer Posts,Fashion,Sometimes,No,Moderate,7
+R123,35-44,Female,Student,2000-3999,Facebook,5.2,3,4,2,5,3,6,Customer Reviews,Beauty,Sometimes,Yes,High,7
+R124,25-34,Female,Self-Employed,2000-3999,X/Twitter,1.5,3,4,5,1,4,8,Influencer Posts,Fashion,Rarely,Yes,Low,8
+R125,35-44,Male,Employed,4000-5999,Instagram,4.6,4,5,3,3,2,2,Short Videos,Fashion,Very Often,Yes,Moderate,9
+R126,25-34,Female,Unemployed,4000-5999,Instagram,5,5,5,5,2,4,7,Customer Reviews,Beauty,Rarely,Yes,Moderate,4
+R127,18-24,Male,Employed,6000+,Instagram,2.7,1,3,1,4,3,5,Customer Reviews,Food & Beverage,Often,Yes,Moderate,3
+R128,35-44,Female,Employed,2000-3999,Facebook,5,4,5,5,2,5,8,Influencer Posts,Home Decor,Often,Yes,Moderate,6
+R129,55+,Female,Student,6000+,Facebook,3.8,1,4,4,3,3,6,Influencer Posts,Beauty,Often,Yes,Low,9
+R130,55+,Other,Unemployed,Below 2000,TikTok,7.2,5,4,4,4,2,1,Short Videos,Fashion,Very Often,No,Low,8
+R131,18-24,Male,Student,2000-3999,Instagram,2.6,3,3,5,3,4,4,Short Videos,Fashion,Very Often,No,Low,7
+R132,25-34,Male,Employed,2000-3999,Instagram,0.7,5,5,3,3,1,8,Short Videos,Electronics,Very Often,Yes,High,7
+R133,25-34,Female,Student,Below 2000,TikTok,6.4,4,4,4,5,2,4,Customer Reviews,Fashion,Often,Yes,Low,6
+R134,18-24,Male,Student,4000-5999,YouTube,3.7,4,5,5,3,3,5,Short Videos,Beauty,Sometimes,No,High,6
+R135,35-44,Female,Student,6000+,TikTok,2.2,4,3,3,4,4,3,Influencer Posts,Home Decor,Very Often,Yes,Moderate,9
+R136,35-44,Female,Self-Employed,Below 2000,Instagram,3.9,4,5,5,5,2,7,Live Streams,Home Decor,Rarely,Yes,Moderate,8
+R137,35-44,Male,Employed,2000-3999,Facebook,4.5,5,5,4,4,4,5,Influencer Posts,Fashion,Rarely,Yes,Low,7
+R138,25-34,Other,Self-Employed,4000-5999,TikTok,2.4,3,4,3,3,4,6,Customer Reviews,Fashion,Sometimes,Yes,Moderate,8
+R139,25-34,Male,Self-Employed,Below 2000,Instagram,5.1,3,4,4,3,3,5,Influencer Posts,Beauty,Very Often,No,High,6
+R140,18-24,Female,Student,Below 2000,Instagram,3,4,4,4,5,4,2,Influencer Posts,Electronics,Never,Yes,Moderate,10
+R141,45-54,Male,Employed,Below 2000,YouTube,2.5,3,3,5,4,4,8,Customer Reviews,Electronics,Often,Yes,Moderate,7
+R142,18-24,Male,Employed,2000-3999,Instagram,2.8,4,4,3,3,4,5,Influencer Posts,Fashion,Sometimes,Yes,Moderate,6
+R143,25-34,Male,Unemployed,6000+,Instagram,3.2,3,5,5,4,5,6,Images,Beauty,Often,Yes,Moderate,10
+R144,18-24,Male,Employed,6000+,TikTok,3.5,3,4,5,3,2,6,Short Videos,Food & Beverage,Never,Yes,Moderate,10
+R145,18-24,Male,Student,2000-3999,Instagram,0.6,1,4,4,3,1,5,Short Videos,Beauty,Sometimes,No,High,6
+R146,55+,Female,Self-Employed,6000+,Facebook,2.6,4,4,4,4,5,5,Short Videos,Beauty,Never,Yes,Low,7
+R147,18-24,Male,Employed,2000-3999,TikTok,3.1,5,4,2,5,2,4,Short Videos,Beauty,Sometimes,No,Moderate,6
+R148,25-34,Male,Employed,Below 2000,TikTok,2.7,3,4,2,4,4,7,Influencer Posts,Electronics,Very Often,Yes,Low,7
+R149,18-24,Male,Student,4000-5999,TikTok,0.9,3,4,4,4,5,3,Short Videos,Home Decor,Often,Yes,High,8
+R150,18-24,Female,Employed,Below 2000,TikTok,3.2,3,3,4,2,5,8,Influencer Posts,Fashion,Sometimes,Yes,Moderate,7
